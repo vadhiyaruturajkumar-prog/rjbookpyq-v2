@@ -1,4 +1,4 @@
-const questions = [
+onst questions = [
   {
     question: "What is the capital of Gujarat?",
     options: ["Ahmedabad", "Gandhinagar", "Rajkot", "Surat"],
